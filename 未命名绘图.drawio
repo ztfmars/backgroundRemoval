@@ -102,7 +102,7 @@
           <mxGeometry x="40" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vjk9OwXHQ9oW8j2urwoA-10" value="过程n" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="vjk9OwXHQ9oW8j2urwoA-6">
-          <mxGeometry x="270" y="30" width="80" height="60" as="geometry" />
+          <mxGeometry x="280" y="40" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vjk9OwXHQ9oW8j2urwoA-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.parallel_mode;pointerEvents=1" vertex="1" parent="vjk9OwXHQ9oW8j2urwoA-6">
           <mxGeometry x="152.5" y="50" width="95" height="40" as="geometry" />
